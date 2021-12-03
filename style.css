@@ -1,0 +1,82 @@
+body{
+
+    margin: 0;
+    
+    box-sizing: border-box;
+    
+    background-color: rgb(224, 178, 178);
+    
+    
+    }
+    
+    .wrapper{
+    
+    margin: 0 auto;
+    
+    }
+    .head{
+    
+    display: flex;
+    
+    justify-content: space-between;
+    
+    align-items: center;
+    
+    background-color: black;
+    
+    padding: 20px 0;
+    
+    }
+    .nav{
+    
+    display: flex;
+    
+    list-style: none ;
+    
+    padding-left: 0;
+    
+    color: red;
+    
+    }
+    .nav1{
+    
+    display: flex;
+    
+    list-style: none;
+    
+    padding-left: 0;
+    
+    margin-left: 50px;
+     
+    }
+    .cut{
+    
+    padding: 9px 25px;
+    
+    background-color: blue;
+    
+    border: none;
+    
+    border-radius: 50px;
+    
+    transition: background-color 0.3s ease 0s;
+    
+    }
+    .cut{
+    
+    background-color:rgb(228, 231, 25);
+    
+    }
+    .down{
+        
+        display: flex;
+    
+        justify-content: space-between;
+        
+        align-items: center;
+        
+        color: white;
+
+        background-color: black;
+
+    }
